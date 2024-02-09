@@ -1,0 +1,22 @@
+.grid-container{
+    display: grid;
+    background-color: burlywood;
+    padding: 10px;
+
+}
+
+
+.grid1{
+    padding: 10px;
+    background-color: red;
+    width: 50px;
+}
+.grid2{
+    padding: 10px;
+    background-color: red;
+    width: 50px;
+}.grid3{
+    padding: 10px;
+    background-color: red;
+    width: 50px;
+}
